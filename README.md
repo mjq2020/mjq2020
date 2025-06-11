@@ -1,95 +1,125 @@
-# 👋 你好，我是 mjq2020
+# 👋 Hi there, I'm mjq2020
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mjq2020&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/mjq2020?label=Follow&style=social)](https://github.com/mjq2020)
+[![Total Stars](https://img.shields.io/github/stars/mjq2020?affiliations=OWNER&style=social)](https://github.com/mjq2020)
 
-## 🧑‍💻 关于我
+## 🧑‍💻 About Me
 
-我是一名充满热情的软件工程师，专注于构建高质量的应用程序和解决复杂的技术问题。我热爱学习新技术，并致力于编写清洁、可维护的代码。
+I'm a passionate software engineer who loves building high-quality applications and solving complex technical challenges. I'm enthusiastic about learning new technologies and committed to writing clean, maintainable code.
 
-### 🎯 核心技能
+### 🎯 Core Skills
 
-**编程语言**
+**Programming Languages**
 - JavaScript/TypeScript
 - Python
 - Java
 - Go
 - C++
 
-**前端技术**
+**Frontend Technologies**
 - React.js / Vue.js
 - HTML5 / CSS3
 - Webpack / Vite
 - Tailwind CSS / Bootstrap
 
-**后端技术**
+**Backend Technologies**
 - Node.js / Express
 - Spring Boot
 - Django / Flask
 - RESTful APIs
 - GraphQL
 
-**数据库**
+**Databases**
 - MySQL / PostgreSQL
 - MongoDB
 - Redis
 - Elasticsearch
 
-**云服务与工具**
+**Cloud Services & Tools**
 - Docker / Kubernetes
-- AWS / 阿里云
+- AWS / Alibaba Cloud
 - Git / GitHub
 - CI/CD
 - Nginx
 
-## 📊 GitHub 统计
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjq2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjq2020&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-## 🔥 贡献热力图
+## 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjq2020&theme=algolia" alt="mjq2020" />
 </div>
 
-## 🚀 项目亮点
+## ⭐ Repository Stars
 
-### 🏆 开源贡献
-- 积极参与开源项目，为多个知名项目提供代码贡献
-- 维护个人开源项目，获得社区认可
-- 定期在技术博客分享开发经验和最佳实践
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mjq2020&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=algolia" alt="GitHub Stats" />
+</div>
 
-### 💼 技术专长
-- **全栈开发**: 从概念到部署的完整产品开发经验
-- **性能优化**: 擅长前端性能优化和后端架构设计
-- **团队协作**: 具备良好的代码审查和技术指导能力
-- **问题解决**: 快速定位和解决复杂技术问题
+<div align="center">
+  
+[![Total Stars Earned](https://img.shields.io/github/stars/mjq2020?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow)](https://github.com/mjq2020?tab=repositories)
+[![Total Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Repos&query=%24.public_repos&url=https://api.github.com/users/mjq2020&style=for-the-badge&logo=github)](https://github.com/mjq2020?tab=repositories)
 
-## 🌱 持续学习
+</div>
 
-我相信技术是不断进步的，因此我始终保持学习的心态：
+## 🚀 Project Highlights
 
-- 📚 关注最新的技术趋势和最佳实践
-- 🎓 参加技术会议和在线课程
-- 💡 实验新技术并将其应用到实际项目中
-- 📝 记录学习心得并与社区分享
+### 🏆 Open Source Contributions
+- Actively contributing to open source projects with meaningful code contributions
+- Maintaining personal open source projects that have gained community recognition
+- Regularly sharing development experiences and best practices through technical blogs
 
-## 🎨 兴趣爱好
+### 💼 Technical Expertise
+- **Full-Stack Development**: Complete product development experience from concept to deployment
+- **Performance Optimization**: Specialized in frontend performance optimization and backend architecture design
+- **Team Collaboration**: Strong code review skills and technical mentoring capabilities
+- **Problem Solving**: Quick identification and resolution of complex technical issues
 
-除了编程，我还喜欢：
-- 🎮 游戏开发
-- 📷 摄影
-- 🎵 音乐
-- 🏃‍♂️ 运动健身
+## 🌱 Continuous Learning
 
-## 📫 联系方式
+I believe technology is constantly evolving, so I always maintain a learning mindset:
 
-- 📧 Email: [点击查看](mailto:your.email@example.com)
-- 💼 LinkedIn: [个人档案](#)
-- 📝 技术博客: [我的博客](#)
+- 📚 Stay updated with the latest technology trends and best practices
+- 🎓 Attend technical conferences and online courses
+- 💡 Experiment with new technologies and apply them to real projects
+- 📝 Document learning insights and share with the community
+
+## 🛠️ Featured Projects
+
+<div align="center">
+
+<!-- Add your specific repositories here -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mjq2020&repo=project-name&theme=algolia)](https://github.com/mjq2020/project-name)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mjq2020&repo=another-project&theme=algolia)](https://github.com/mjq2020/another-project)
+
+</div>
+
+## 🎨 Interests & Hobbies
+
+Besides coding, I also enjoy:
+- 🎮 Game Development
+- 📷 Photography
+- 🎵 Music
+- 🏃‍♂️ Fitness & Sports
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjq2020&theme=github-compact&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 📫 Get In Touch
+
+- 📧 Email: [Contact Me](mailto:your.email@example.com)
+- 💼 LinkedIn: [My Profile](#)
+- 📝 Tech Blog: [My Blog](#)
 - 🐦 Twitter: [@mjq2020](#)
 
 ---
@@ -99,9 +129,9 @@
 </div>
 
 <div align="center">
-  <i>⭐️ 如果你觉得我的项目有趣，欢迎给个 Star！</i>
+  <i>⭐️ Feel free to star my repositories if you find them interesting!</i>
 </div>
 
 <div align="center">
-  <i>💬 "代码是诗歌，程序员是诗人" - 让我们一起创造美好的数字世界</i>
+  <i>💬 "Code is poetry, and programmers are poets" - Let's create a better digital world together</i>
 </div> 
