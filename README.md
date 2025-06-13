@@ -4,6 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/mjq2020?label=Follow&style=social)](https://github.com/mjq2020)
 [![Total Stars](https://img.shields.io/github/stars/mjq2020?affiliations=OWNER&style=social)](https://github.com/mjq2020)
 
+- 📧 Email: mjqx2020@gmail.com
 
 ## ⭐ Repository Stars
 
@@ -42,11 +43,6 @@ I believe technology is constantly evolving, so I always maintain a learning min
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjq2020&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </div>
-
-## 📫 Get In Touch
-
-- 📧 Email: [mjqx2020@gmail.com](mjqx2020@gmail.com)
-- 💼 LinkedIn: [jackmu](www.linkedin.com/in/jackmu23)
 
 ---
 
