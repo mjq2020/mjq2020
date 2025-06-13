@@ -43,17 +43,3 @@ I believe technology is constantly evolving, so I always maintain a learning min
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjq2020&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mjq2020&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="mjq2020" />
-</div>
-
-<div align="center">
-  <i>⭐️ Feel free to star my repositories if you find them interesting!</i>
-</div>
-
-<div align="center">
-  <i>💬 "Code is poetry, and programmers are poets" - Let's create a better digital world together</i>
-</div> 
