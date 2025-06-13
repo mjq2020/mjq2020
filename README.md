@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm mjq2020
+# 👋 Hi there, I'm jack mu
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mjq2020&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/mjq2020?label=Follow&style=social)](https://github.com/mjq2020)
@@ -6,15 +6,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate software engineer who loves building high-quality applications and solving complex technical challenges. I'm enthusiastic about learning new technologies and committed to writing clean, maintainable code.
-
 ### 🎯 Core Skills
 
 **Programming Languages**
 - JavaScript/TypeScript
 - Python
-- Java
-- Go
 - C++
 
 **Frontend Technologies**
@@ -43,19 +39,6 @@ I'm a passionate software engineer who loves building high-quality applications 
 - CI/CD
 - Nginx
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mjq2020&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjq2020&layout=compact&langs_count=8&theme=algolia"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjq2020&theme=algolia" alt="mjq2020" />
-</div>
-
 ## ⭐ Repository Stars
 
 <div align="center">
@@ -68,6 +51,14 @@ I'm a passionate software engineer who loves building high-quality applications 
 [![Total Repositories](https://img.shields.io/badge/dynamic/json?color=blue&label=Total%20Repos&query=%24.public_repos&url=https://api.github.com/users/mjq2020&style=for-the-badge&logo=github)](https://github.com/mjq2020?tab=repositories)
 
 </div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjq2020&theme=algolia" alt="mjq2020" />
+</div>
+
+
 
 ## 🚀 Project Highlights
 
@@ -117,7 +108,7 @@ Besides coding, I also enjoy:
 
 ## 📫 Get In Touch
 
-- 📧 Email: [Contact Me](mailto:your.email@example.com)
+- 📧 Email: [mjqx2020@gmail.com](mjqx2020@gmail.com)
 - 💼 LinkedIn: [My Profile](#)
 - 📝 Tech Blog: [My Blog](#)
 - 🐦 Twitter: [@mjq2020](#)
